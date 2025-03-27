@@ -1,0 +1,6 @@
+sets:Waypoints:gui.xaero_default
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Casa:C:280:109:-2086:13:false:0:Waypoints:false:0:1:false
+waypoint:Aldea:A:294:84:-1979:2:false:0:Waypoints:false:0:0:false

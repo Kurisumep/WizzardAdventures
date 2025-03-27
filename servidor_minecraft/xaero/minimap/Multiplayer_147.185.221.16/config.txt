@@ -1,0 +1,16 @@
+//waypoints config options
+usingMultiworldDetection:true
+ignoreServerLevelId:true
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+serverTeleportCommandFormat:/teleport @s {x} {y} {z}
+serverTeleportCommandRotationFormat:/teleport @s {x} {y} {z} {yaw} ~
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:minecraft$overworld:minecraft$overworld
+//server waypoints
