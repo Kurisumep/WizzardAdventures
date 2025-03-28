@@ -6084,3 +6084,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [28Mar2025 06:46:41.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
 [28Mar2025 06:47:07.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paloman344 has made the advancement [Those Were the Days]
 [28Mar2025 06:49:40.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paloman344 was doomed to fall by Piglin Brute
+[28Mar2025 06:51:12.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paloman344: Teleported paloman344 to 168.500000, 35.500000, -307.500000]
+[28Mar2025 06:51:14.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paloman344 tried to swim in lava
+[28Mar2025 06:51:41.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[28Mar2025 06:51:41.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[28Mar2025 06:51:46.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paloman344: Teleported paloman344 to 276.500000, 109.500000, -2092.500000]
+[28Mar2025 06:52:23.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paloman344: Teleported paloman344 to 169.500000, 34.500000, -307.500000]
+[28Mar2025 06:52:36.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paloman344: Teleported paloman344 to 51.500000, 112.500000, -249.500000]
+[28Mar2025 06:52:36.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paloman344 suffocated in a wall
+[28Mar2025 06:54:05.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paloman344 lost connection: Timed out
+[28Mar2025 06:54:05.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paloman344 left the game
+[28Mar2025 06:54:05.705] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Mar2025 06:56:41.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[28Mar2025 06:56:41.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
