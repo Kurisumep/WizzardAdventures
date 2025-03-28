@@ -892,3 +892,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [28Mar2025 06:12:31.269] [Server thread/INFO] [Jade/]: Syncing config to paloman344 (20bf91cc-c326-3e32-b6e5-5e6f069c35c3)
 [28Mar2025 06:14:04.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paloman344: Teleported paloman344 to CloggedTerror10]
 [28Mar2025 06:14:54.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paloman344> no le deja entrar al carlos?
+[28Mar2025 06:36:54.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CloggedTerror10 lost connection: Disconnected
+[28Mar2025 06:36:54.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 left the game
