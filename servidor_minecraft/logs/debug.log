@@ -6209,3 +6209,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [28Mar2025 11:31:41.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
 [28Mar2025 11:36:41.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
 [28Mar2025 11:36:41.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[28Mar2025 11:41:41.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[28Mar2025 11:41:41.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[28Mar2025 11:46:41.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[28Mar2025 11:46:41.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
