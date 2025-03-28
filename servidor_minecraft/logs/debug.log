@@ -7262,3 +7262,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [28Mar2025 23:16:25.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
 [28Mar2025 23:16:25.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
 [28Mar2025 23:19:19.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMONIO1698 has made the advancement [Splintering II]
+[28Mar2025 23:21:25.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[28Mar2025 23:21:25.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[28Mar2025 23:22:47.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of DMONIO1698) moved wrongly! 0.36196947416465264
+[28Mar2025 23:22:47.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of DMONIO1698) moved wrongly! 0.6898162814377429
+[28Mar2025 23:22:48.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of DMONIO1698) moved wrongly! 0.39206195445331105
+[28Mar2025 23:22:48.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of DMONIO1698) moved wrongly! 0.39968200684415933
+[28Mar2025 23:22:48.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of DMONIO1698) moved wrongly! 0.3629873125846643
+[28Mar2025 23:22:48.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Witch Hazel Broom (vehicle of DMONIO1698) moved wrongly! 0.2789077911147615
+[28Mar2025 23:24:27.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMONIO1698 was killed by CloggedTerror10 using magic
+[28Mar2025 23:24:35.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMONIO1698: Teleported DMONIO1698 to CloggedTerror10]
+[28Mar2025 23:25:23.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was slain by Lightning Dragon
+[28Mar2025 23:25:29.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7613.500000, 66.500000, -8395.500000]
+[28Mar2025 23:26:25.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[28Mar2025 23:26:25.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[28Mar2025 23:27:15.936] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[28Mar2025 23:31:25.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[28Mar2025 23:31:25.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[28Mar2025 23:35:11.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CloggedTerror10> xaero-waypoint:aldea arenosa:A:-7775:70:-8565:14:false:0:Internal-overworld-waypoints
+[28Mar2025 23:36:10.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMONIO1698: Teleported DMONIO1698 to -7774.500000, 70.500000, -8564.500000]
+[28Mar2025 23:36:13.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 280.500000, 109.500000, -2085.500000]
+[28Mar2025 23:36:25.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[28Mar2025 23:36:25.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[28Mar2025 23:36:27.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMONIO1698: Teleported DMONIO1698 to CloggedTerror10]
+[28Mar2025 23:41:25.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[28Mar2025 23:41:25.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[28Mar2025 23:46:25.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[28Mar2025 23:46:25.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[28Mar2025 23:51:25.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[28Mar2025 23:51:25.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures

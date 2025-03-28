@@ -8431,6 +8431,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-28 23:32:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-03-28 23:17:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-03-28 22:13:58 +0000"
@@ -8461,9 +8473,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
+    "criteria": {
+      "has_dragonscale_blue": "2025-03-28 23:21:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
       "killed_fire_dragon": "2025-03-28 22:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-28 23:32:50 +0000"
     },
     "done": true
   },
@@ -8503,6 +8527,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-03-28 23:17:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_desert_hoe": {
     "criteria": {
       "has_item": "2025-03-28 22:25:50 +0000"
@@ -8515,6 +8545,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-03-28 23:17:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-28 23:15:04 +0000"
@@ -8524,6 +8560,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-28 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-03-28 23:17:12 +0000"
     },
     "done": true
   },
@@ -8581,6 +8623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-03-28 23:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-03-28 23:15:04 +0000"
@@ -8599,6 +8647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-28 23:25:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/myrmex_resin_desert": {
     "criteria": {
       "has_item": "2025-03-28 22:25:50 +0000"
@@ -8614,6 +8668,24 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-28 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-03-28 23:32:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-28 23:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-28 23:32:50 +0000"
     },
     "done": true
   },
@@ -8653,6 +8725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-28 23:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-03-28 23:15:04 +0000"
@@ -8668,6 +8746,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-03-28 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-03-28 23:17:12 +0000"
     },
     "done": true
   },
