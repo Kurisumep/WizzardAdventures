@@ -1725,6 +1725,7 @@
       "minecraft:cherry_grove": "2025-03-23 17:24:49 +0000",
       "minecraft:birch_forest": "2025-03-23 17:14:07 +0000",
       "minecraft:bamboo_jungle": "2025-03-23 09:35:00 +0000",
+      "minecraft:wooded_badlands": "2025-03-28 23:09:59 +0000",
       "minecraft:badlands": "2025-03-28 22:27:23 +0000",
       "minecraft:savanna_plateau": "2025-03-23 16:49:04 +0000",
       "minecraft:beach": "2025-03-23 07:14:38 +0000",
@@ -1745,6 +1746,7 @@
       "minecraft:ocean": "2025-03-23 09:52:40 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-23 17:20:01 +0000",
       "minecraft:windswept_savanna": "2025-03-26 01:31:03 +0000",
+      "minecraft:warm_ocean": "2025-03-28 22:44:38 +0000",
       "minecraft:frozen_peaks": "2025-03-23 17:28:29 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-23 17:15:50 +0000",
       "minecraft:deep_dark": "2025-03-23 13:53:50 +0000",
@@ -1830,6 +1832,7 @@
       "minecraft:zombified_piglin": "2025-03-25 16:39:59 +0000",
       "minecraft:wither_skeleton": "2025-03-26 01:10:36 +0000",
       "minecraft:husk": "2025-03-23 08:59:59 +0000",
+      "minecraft:cave_spider": "2025-03-28 22:49:27 +0000",
       "minecraft:piglin": "2025-03-26 07:17:43 +0000",
       "minecraft:enderman": "2025-03-23 17:43:20 +0000",
       "minecraft:stray": "2025-03-26 23:43:24 +0000",
@@ -2382,6 +2385,7 @@
       "glow_berries": "2025-03-23 10:06:41 +0000",
       "salmon": "2025-03-23 09:36:27 +0000",
       "cooked_chicken": "2025-03-23 13:49:32 +0000",
+      "enchanted_golden_apple": "2025-03-28 22:51:04 +0000",
       "cooked_salmon": "2025-03-26 23:21:46 +0000"
     },
     "done": false
@@ -8415,6 +8419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-28 22:46:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_desert_sword": {
     "criteria": {
       "has_item": "2025-03-28 22:25:50 +0000"
@@ -8424,6 +8434,24 @@
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-03-28 22:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-28 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-03-28 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-28 22:52:47 +0000"
     },
     "done": true
   },
@@ -8463,9 +8491,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-03-28 22:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-03-28 23:15:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_desert_hoe": {
     "criteria": {
       "has_item": "2025-03-28 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-28 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-28 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-28 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-03-28 23:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-28 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-28 23:15:04 +0000"
     },
     "done": true
   },
@@ -8475,9 +8551,45 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-28 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-03-28 23:12:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-03-28 22:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-03-28 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-28 22:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-03-28 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-28 23:15:04 +0000"
     },
     "done": true
   },
@@ -8499,6 +8611,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-28 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-03-28 22:57:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_desert_chestplate": {
     "criteria": {
       "has_item": "2025-03-28 22:25:50 +0000"
@@ -8511,9 +8635,39 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-28 23:07:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_desert_boots": {
     "criteria": {
       "has_item": "2025-03-28 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_stripped_birch_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-28 23:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-03-28 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-03-28 23:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-28 23:07:07 +0000"
     },
     "done": true
   },

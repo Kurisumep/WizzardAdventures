@@ -924,3 +924,63 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [28Mar2025 22:38:36.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was slain by Skeleton
 [28Mar2025 22:38:41.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7633.500000, 80.500000, -8655.500000]
 [28Mar2025 22:40:48.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was struck by lightning
+[28Mar2025 22:40:53.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7630.500000, 84.500000, -8640.500000]
+[28Mar2025 22:41:07.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadreCero lost connection: Disconnected
+[28Mar2025 22:41:07.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadreCero left the game
+[28Mar2025 22:43:35.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to DMONIO1698]
+[28Mar2025 22:45:00.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadreCero[/100.105.177.91:52509] logged in with entity id 13954 at (-1326.5, 106.0, -3855.5)
+[28Mar2025 22:45:00.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadreCero joined the game
+[28Mar2025 22:45:00.589] [Server thread/INFO] [Jade/]: Syncing config to MadreCero (1cfeb2e5-66d3-3360-aa18-1d5fb33491e1)
+[28Mar2025 22:46:02.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadreCero: Teleported MadreCero to -7640.500000, 80.500000, -8627.500000]
+[28Mar2025 22:46:03.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMONIO1698 was doomed to fall by Husk
+[28Mar2025 22:46:15.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMONIO1698: Teleported DMONIO1698 to -7613.500000, 120.500000, -8604.500000]
+[28Mar2025 22:46:52.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to MadreCero]
+[28Mar2025 22:47:51.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadreCero was slain by Husk
+[28Mar2025 22:48:16.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadreCero: Teleported MadreCero to -7647.500000, 80.500000, -8591.500000]
+[28Mar2025 22:50:10.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadreCero was slain by Husk
+[28Mar2025 22:50:31.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadreCero: Teleported MadreCero to -7633.500000, 79.500000, -8613.500000]
+[28Mar2025 22:50:54.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to MadreCero]
+[28Mar2025 22:54:39.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMONIO1698 has made the advancement [Who You Gonna Call?]
+[28Mar2025 22:54:54.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadreCero was slain by Husk
+[28Mar2025 22:55:04.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadreCero: Teleported MadreCero to -7586.500000, 79.500000, -8636.500000]
+[28Mar2025 22:55:05.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadreCero was slain by Husk
+[28Mar2025 22:55:20.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadreCero: Teleported MadreCero to -7594.500000, 80.500000, -8646.500000]
+[28Mar2025 22:55:22.607] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/18827, l='ServerLevel[WizardAdventures]', x=-7727.92, y=83.74, z=-8308.31]
+[28Mar2025 22:55:22.608] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/18828, l='ServerLevel[WizardAdventures]', x=-7726.68, y=83.17, z=-8308.65]
+[28Mar2025 22:55:27.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to MadreCero]
+[28Mar2025 22:55:37.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMONIO1698: Teleported DMONIO1698 to CloggedTerror10]
+[28Mar2025 22:56:01.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMONIO1698 was killed by CloggedTerror10 using magic
+[28Mar2025 22:56:04.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was slain by Cave Spider
+[28Mar2025 22:56:08.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMONIO1698: Teleported DMONIO1698 to CloggedTerror10]
+[28Mar2025 22:56:08.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7592.500000, 79.500000, -8673.500000]
+[28Mar2025 22:56:11.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was slain by Cave Spider
+[28Mar2025 22:56:14.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMONIO1698: Teleported DMONIO1698 to -7594.500000, 80.500000, -8659.500000]
+[28Mar2025 22:56:17.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7591.500000, 84.500000, -8665.500000]
+[28Mar2025 22:56:29.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was slain by DMONIO1698 using [SCALIBUR]
+[28Mar2025 22:56:34.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7592.500000, 79.500000, -8673.500000]
+[28Mar2025 22:57:52.303] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/21207, l='ServerLevel[WizardAdventures]', x=-7716.87, y=89.00, z=-8880.48]
+[28Mar2025 22:57:52.303] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/21208, l='ServerLevel[WizardAdventures]', x=-7714.03, y=89.00, z=-8882.14]
+[28Mar2025 22:57:52.304] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/21209, l='ServerLevel[WizardAdventures]', x=-7708.79, y=89.00, z=-8880.99]
+[28Mar2025 22:57:52.304] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/21210, l='ServerLevel[WizardAdventures]', x=-7706.65, y=89.00, z=-8882.59]
+[28Mar2025 22:57:52.304] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/21211, l='ServerLevel[WizardAdventures]', x=-7704.51, y=89.00, z=-8884.20]
+[28Mar2025 22:59:30.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadreCero was struck by lightning
+[28Mar2025 22:59:54.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadreCero: Teleported MadreCero to -7603.500000, 79.500000, -8660.500000]
+[28Mar2025 23:01:01.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadreCero: Teleported MadreCero to -2299.500000, 88.500000, -3635.500000]
+[28Mar2025 23:02:11.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadreCero: Teleported MadreCero to 282.500000, 109.500000, -2082.500000]
+[28Mar2025 23:02:40.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadreCero: Teleported MadreCero to -7635.500000, 97.500000, -8575.500000]
+[28Mar2025 23:03:53.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadreCero moved too quickly! 8.49788215900844,-4.5,2.8996250690415764
+[28Mar2025 23:03:57.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadreCero: Teleported MadreCero to CloggedTerror10]
+[28Mar2025 23:04:36.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadreCero lost connection: Disconnected
+[28Mar2025 23:04:36.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadreCero left the game
+[28Mar2025 23:07:07.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 has made the advancement [Spooky Scary Skeleton]
+[28Mar2025 23:08:26.811] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/25872, l='ServerLevel[WizardAdventures]', x=-7782.87, y=68.74, z=-8832.37]
+[28Mar2025 23:08:26.812] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/25873, l='ServerLevel[WizardAdventures]', x=-7786.52, y=69.49, z=-8832.97]
+[28Mar2025 23:08:26.812] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/25874, l='ServerLevel[WizardAdventures]', x=-7786.74, y=69.12, z=-8833.94]
+[28Mar2025 23:08:26.812] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/25875, l='ServerLevel[WizardAdventures]', x=-7786.90, y=68.87, z=-8834.65]
+[28Mar2025 23:08:26.813] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/25876, l='ServerLevel[WizardAdventures]', x=-7787.15, y=68.62, z=-8835.74]
+[28Mar2025 23:09:27.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to DMONIO1698]
+[28Mar2025 23:09:30.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 fell from a high place
+[28Mar2025 23:09:36.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7638.500000, 63.500000, -8550.500000]
+[28Mar2025 23:14:39.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gertrudis (vehicle of CloggedTerror10) moved wrongly! 1.2827951124872925
+[28Mar2025 23:14:39.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gertrudis (vehicle of CloggedTerror10) moved wrongly! 2.4946784482835938
+[28Mar2025 23:19:19.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMONIO1698 has made the advancement [Splintering II]
