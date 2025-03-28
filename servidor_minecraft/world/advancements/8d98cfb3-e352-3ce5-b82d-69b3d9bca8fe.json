@@ -1781,6 +1781,7 @@
       "minecraft:cherry_grove": "2025-03-26 01:37:44 +0000",
       "minecraft:sunflower_plains": "2025-03-26 00:56:15 +0000",
       "minecraft:bamboo_jungle": "2025-03-23 09:35:08 +0000",
+      "minecraft:badlands": "2025-03-28 22:27:28 +0000",
       "minecraft:savanna_plateau": "2025-03-26 05:58:45 +0000",
       "minecraft:beach": "2025-03-23 09:34:11 +0000",
       "minecraft:sparse_jungle": "2025-03-23 08:53:18 +0000",
@@ -5217,6 +5218,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-28 22:31:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-03-28 22:29:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_desert_shovel": {
     "criteria": {
       "has_item": "2025-03-28 22:25:19 +0000"
@@ -5229,9 +5242,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "resin": "2025-03-28 22:26:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_desert_axe": {
     "criteria": {
       "has_item": "2025-03-28 22:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-03-28 22:35:39 +0000"
     },
     "done": true
   },
@@ -5268,6 +5293,12 @@
   "iceandfire:recipes/combat/myrmex_desert_helmet": {
     "criteria": {
       "has_item": "2025-03-28 22:25:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_desert": {
+    "criteria": {
+      "has_item": "2025-03-28 22:26:29 +0000"
     },
     "done": true
   },

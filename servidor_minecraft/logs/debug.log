@@ -6631,3 +6631,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [28Mar2025 22:29:33.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMONIO1698 has made the advancement [Enter Sandman]
 [28Mar2025 22:29:44.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 has made the advancement [Enter Sandman]
 [28Mar2025 22:29:45.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 has made the advancement [Sandstone Bomb]
+[28Mar2025 22:30:54.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 280.500000, 109.500000, -2085.500000]
+[28Mar2025 22:31:22.075] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [8d98cfb3-e352-3ce5-b82d-69b3d9bca8fe]
+[28Mar2025 22:31:25.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[28Mar2025 22:31:25.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[28Mar2025 22:32:25.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to MadreCero]
+[28Mar2025 22:32:35.061] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [8d98cfb3-e352-3ce5-b82d-69b3d9bca8fe]
+[28Mar2025 22:32:52.403] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [c9caff44-c4fe-3d4b-9b6e-e498c15e0d35]
+[28Mar2025 22:33:28.758] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [c9caff44-c4fe-3d4b-9b6e-e498c15e0d35]
+[28Mar2025 22:33:47.323] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [c9caff44-c4fe-3d4b-9b6e-e498c15e0d35]
+[28Mar2025 22:34:23.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was mauled by MadreCero's polar bear
+[28Mar2025 22:34:27.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7612.500000, 81.500000, -8580.500000]
+[28Mar2025 22:34:39.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadreCero has made the advancement [Best Friends Forever]
+[28Mar2025 22:36:25.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[28Mar2025 22:36:25.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[28Mar2025 22:37:18.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was slain by Skeleton
+[28Mar2025 22:37:23.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7634.500000, 81.500000, -8654.500000]
+[28Mar2025 22:37:26.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was slain by Skeleton
+[28Mar2025 22:37:27.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadreCero was slain by Husk
+[28Mar2025 22:37:32.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7634.500000, 81.500000, -8654.500000]
+[28Mar2025 22:37:37.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was slain by Skeleton
+[28Mar2025 22:37:53.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7634.500000, 82.500000, -8654.500000]
+[28Mar2025 22:37:55.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was slain by Skeleton
+[28Mar2025 22:38:00.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7635.500000, 80.500000, -8662.500000]
+[28Mar2025 22:38:05.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was slain by Skeleton
+[28Mar2025 22:38:09.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7635.500000, 80.500000, -8656.500000]
+[28Mar2025 22:38:11.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was slain by Skeleton
+[28Mar2025 22:38:32.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7634.500000, 80.500000, -8657.500000]
+[28Mar2025 22:38:36.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was slain by Skeleton
+[28Mar2025 22:38:41.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7633.500000, 80.500000, -8655.500000]
+[28Mar2025 22:40:24.013] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [59e71efc-e700-4e37-89ae-64b4c876829d]
+[28Mar2025 22:40:48.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was struck by lightning
