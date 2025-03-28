@@ -8414,9 +8414,81 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/myrmex_desert_sword": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-03-28 22:13:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-28 22:23:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_shovel": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "resin": "2025-03-28 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_axe": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_hoe": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_helmet": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_desert": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_pickaxe": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_leggings": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_boots": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:50 +0000"
     },
     "done": true
   },

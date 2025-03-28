@@ -4833,21 +4833,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-03-26 06:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-03-26 06:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-26 06:20:31 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-03-26 06:21:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-26 06:22:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2025-03-26 06:37:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_leggings": {
-    "criteria": {
-      "has_item": "2025-03-26 06:34:29 +0000"
     },
     "done": true
   },
@@ -4863,75 +4875,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-26 06:33:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-03-26 06:20:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-26 06:33:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_flute": {
-    "criteria": {
-      "has_item": "2025-03-26 06:37:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-26 06:33:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-26 06:33:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_helmet": {
-    "criteria": {
-      "has_item": "2025-03-26 06:34:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-26 06:33:19 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-03-26 06:24:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-03-26 06:20:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-26 06:22:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/nest": {
-    "criteria": {
-      "has_item": "2025-03-26 06:37:56 +0000"
     },
     "done": true
   },
@@ -4941,75 +4887,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2025-03-26 06:41:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_bow": {
-    "criteria": {
-      "has_item": "2025-03-26 06:37:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-26 06:22:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2025-03-26 06:41:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-26 06:33:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2025-03-26 06:37:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-26 06:33:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_hoe": {
-    "criteria": {
-      "has_item": "2025-03-26 06:37:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-26 06:33:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2025-03-26 06:41:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-26 06:22:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/gold_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-03-26 06:15:56 +0000"
     },
     "done": true
   },
@@ -5025,30 +4911,6 @@
     },
     "done": true
   },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2025-03-26 06:38:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-26 06:33:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-26 06:33:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-26 06:33:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-26 06:22:48 +0000"
@@ -5058,12 +4920,6 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-26 06:22:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2025-03-26 06:41:23 +0000"
     },
     "done": true
   },
@@ -5085,69 +4941,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
-    "criteria": {
-      "has_item": "2025-03-26 06:37:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-26 06:33:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_chestplate": {
-    "criteria": {
-      "has_item": "2025-03-26 06:34:29 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
-    "criteria": {
-      "requirement": "2025-03-26 06:21:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-26 06:22:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_axe": {
-    "criteria": {
-      "has_item": "2025-03-26 06:37:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-26 06:33:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2025-03-26 06:41:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
-    "criteria": {
-      "has_item": "2025-03-26 06:37:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
-    "criteria": {
-      "has_dragonscales_green": "2025-03-26 06:34:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-26 06:33:19 +0000"
     },
     "done": true
   },
@@ -5163,27 +4959,99 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_sword": {
-    "criteria": {
-      "has_item": "2025-03-26 06:37:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-26 06:22:48 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "has_item": "2025-03-26 06:35:57 +0000"
+      "has_diamond_backpack": "2025-03-26 06:24:58 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_boots": {
+  "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
-      "has_item": "2025-03-26 06:34:29 +0000"
+      "has_terracotta": "2025-03-26 06:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-26 06:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-26 06:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-26 06:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-26 06:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-26 06:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-26 06:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-26 06:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-26 06:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-26 06:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-26 06:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-26 06:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-26 06:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-26 06:33:19 +0000"
     },
     "done": true
   },
@@ -5193,21 +5061,237 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_horn": {
-    "criteria": {
-      "has_item": "2025-03-26 06:37:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-26 06:33:19 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-03-26 06:34:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-03-26 06:34:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-26 06:34:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-03-26 06:34:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-03-26 06:34:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-03-26 06:35:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-03-26 06:37:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-03-26 06:37:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-03-26 06:37:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-03-26 06:37:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-03-26 06:37:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-03-26 06:37:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-03-26 06:37:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-03-26 06:37:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-03-26 06:37:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-03-26 06:37:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-03-26 06:37:56 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-03-26 06:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-26 06:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-03-26 06:41:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-03-26 06:41:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-03-26 06:41:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-03-26 06:41:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-26 06:41:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_sword": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_shovel": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-28 22:23:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_axe": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_hoe": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2025-03-28 22:23:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
+    "criteria": {
+      "has_item": "2025-03-28 22:23:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-03-28 22:25:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2025-03-28 22:23:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_helmet": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_pickaxe": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_leggings": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_boots": {
+    "criteria": {
+      "has_item": "2025-03-28 22:25:19 +0000"
     },
     "done": true
   },
