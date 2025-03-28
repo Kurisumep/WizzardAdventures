@@ -894,3 +894,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [28Mar2025 06:14:54.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paloman344> no le deja entrar al carlos?
 [28Mar2025 06:36:54.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CloggedTerror10 lost connection: Disconnected
 [28Mar2025 06:36:54.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 left the game
+[28Mar2025 06:45:00.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paloman344: Teleported paloman344 to 51.500000, 112.500000, -249.500000]
+[28Mar2025 06:47:07.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paloman344 has made the advancement [Those Were the Days]
+[28Mar2025 06:49:40.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paloman344 was doomed to fall by Piglin Brute

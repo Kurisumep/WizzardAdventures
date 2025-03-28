@@ -6077,3 +6077,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [28Mar2025 06:36:41.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
 [28Mar2025 06:36:54.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CloggedTerror10 lost connection: Disconnected
 [28Mar2025 06:36:54.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 left the game
+[28Mar2025 06:41:41.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[28Mar2025 06:41:41.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[28Mar2025 06:45:00.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paloman344: Teleported paloman344 to 51.500000, 112.500000, -249.500000]
+[28Mar2025 06:46:41.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[28Mar2025 06:46:41.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[28Mar2025 06:47:07.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paloman344 has made the advancement [Those Were the Days]
+[28Mar2025 06:49:40.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paloman344 was doomed to fall by Piglin Brute
