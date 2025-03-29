@@ -9077,3 +9077,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [29Mar2025 02:59:10.787] [Server thread/INFO] [Jade/]: Syncing config to DMONIO1698 (8d98cfb3-e352-3ce5-b82d-69b3d9bca8fe)
 [29Mar2025 03:01:25.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
 [29Mar2025 03:01:25.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[29Mar2025 03:06:25.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[29Mar2025 03:06:25.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[29Mar2025 03:11:25.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[29Mar2025 03:11:25.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
