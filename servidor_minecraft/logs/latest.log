@@ -6,3 +6,8 @@
 [29Mar2025 00:42:08.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to -7774.500000, 70.500000, -8564.500000]
 [29Mar2025 00:42:28.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 280.500000, 109.500000, -2085.500000]
 [29Mar2025 00:59:24.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMONIO1698 was killed by CloggedTerror10 using magic
+[29Mar2025 01:05:36.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMONIO1698 has made the advancement [Magery]
+[29Mar2025 01:11:40.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 280.500000, 109.500000, -2085.500000]
+[29Mar2025 01:11:50.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 280.500000, 109.500000, -2085.500000]
+[29Mar2025 01:11:54.036] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[29Mar2025 01:19:00.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 280.500000, 109.500000, -2085.500000]
