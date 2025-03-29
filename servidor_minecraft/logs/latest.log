@@ -127,3 +127,8 @@
 [29Mar2025 02:52:20.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=274, y=110, z=-2075} BlockPos{x=275, y=108, z=-2073}
 [29Mar2025 02:52:20.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=274, y=110, z=-2075} BlockPos{x=275, y=108, z=-2073}
 [29Mar2025 02:53:23.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMONIO1698: Teleported DMONIO1698 to FBFernet]
+[29Mar2025 02:58:59.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DMONIO1698 lost connection: Disconnected
+[29Mar2025 02:58:59.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMONIO1698 left the game
+[29Mar2025 02:59:10.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DMONIO1698[/100.113.240.9:53258] logged in with entity id 96817 at (265.55316121330605, 113.5, -2111.1120625408744)
+[29Mar2025 02:59:10.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMONIO1698 joined the game
+[29Mar2025 02:59:10.787] [Server thread/INFO] [Jade/]: Syncing config to DMONIO1698 (8d98cfb3-e352-3ce5-b82d-69b3d9bca8fe)
