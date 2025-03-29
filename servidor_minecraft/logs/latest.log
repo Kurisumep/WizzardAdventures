@@ -108,3 +108,22 @@
 [29Mar2025 02:29:12.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CloggedTerror10> uwu
 [29Mar2025 02:32:31.301] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c55af29[id=<null>,name=FBFernet,properties={},legacy=false] (/100.77.123.85:51781) lost connection: Disconnected
 [29Mar2025 02:33:11.398] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46637d8f[id=<null>,name=FBFernet,properties={},legacy=false] (/100.77.123.85:51822) lost connection: Disconnected
+[29Mar2025 02:35:47.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FBFernet[/100.77.123.85:52073] logged in with entity id 93220 at (248.5096273778716, 109.0, -2090.5811038448983)
+[29Mar2025 02:35:47.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FBFernet joined the game
+[29Mar2025 02:35:47.504] [Server thread/INFO] [Jade/]: Syncing config to FBFernet (bee570c3-9e85-368a-b2e4-69f197937ca2)
+[29Mar2025 02:44:26.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FBFernet has made the advancement [Isn't It Iron Pick]
+[29Mar2025 02:47:02.448] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CloggedTerror10 lost connection: Disconnected
+[29Mar2025 02:47:02.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 left the game
+[29Mar2025 02:50:57.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CloggedTerror10[/100.76.180.115:62780] logged in with entity id 95369 at (271.69999998807907, 106.0, -2079.300000011921)
+[29Mar2025 02:50:57.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 joined the game
+[29Mar2025 02:50:57.430] [Server thread/INFO] [Jade/]: Syncing config to CloggedTerror10 (c9caff44-c4fe-3d4b-9b6e-e498c15e0d35)
+[29Mar2025 02:52:03.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CloggedTerror10 lost connection: Disconnected
+[29Mar2025 02:52:03.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 left the game
+[29Mar2025 02:52:20.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=274, y=110, z=-2074} BlockPos{x=275, y=108, z=-2073}
+[29Mar2025 02:52:20.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=274, y=110, z=-2074} BlockPos{x=275, y=108, z=-2073}
+[29Mar2025 02:52:20.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=274, y=110, z=-2075} BlockPos{x=275, y=108, z=-2073}
+[29Mar2025 02:52:20.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=274, y=110, z=-2075} BlockPos{x=275, y=108, z=-2073}
+[29Mar2025 02:52:20.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=274, y=110, z=-2075} BlockPos{x=275, y=108, z=-2073}
+[29Mar2025 02:52:20.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=274, y=110, z=-2075} BlockPos{x=275, y=108, z=-2073}
+[29Mar2025 02:52:20.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=274, y=110, z=-2075} BlockPos{x=275, y=108, z=-2073}
+[29Mar2025 02:53:23.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMONIO1698: Teleported DMONIO1698 to FBFernet]
