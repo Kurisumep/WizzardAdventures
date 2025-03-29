@@ -7360,3 +7360,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [29Mar2025 01:32:28.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=63, z=-206} BlockPos{x=119, y=59, z=-208}
 [29Mar2025 01:32:28.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=63, z=-206} BlockPos{x=119, y=59, z=-208}
 [29Mar2025 01:32:28.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=63, z=-206} BlockPos{x=119, y=59, z=-208}
+[29Mar2025 01:33:23.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 51.500000, 111.500000, -253.500000]
+[29Mar2025 01:34:21.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was doomed to fall
+[29Mar2025 01:34:22.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 has made the advancement [A Voltanic Place]
+[29Mar2025 01:34:28.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 345.500000, 125.500000, -2153.500000]
+[29Mar2025 01:34:37.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 11.500000, 48.500000, -171.500000]
+[29Mar2025 01:35:28.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was slain by Lava Eater
+[29Mar2025 01:35:34.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 345.500000, 125.500000, -2153.500000]
+[29Mar2025 01:35:43.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 29.500000, 55.500000, -211.500000]
+[29Mar2025 01:35:44.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 was slain by Lava Eater
+[29Mar2025 01:35:49.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 345.500000, 125.500000, -2153.500000]
+[29Mar2025 01:36:00.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 29.500000, 55.500000, -211.500000]
+[29Mar2025 01:36:25.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[29Mar2025 01:36:25.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[29Mar2025 01:36:52.655] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [319d1fbf-9e57-4411-9f49-cbb68f3f4e51]
+[29Mar2025 01:37:04.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 has completed the challenge [Fiery Beast]
+[29Mar2025 01:39:40.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 525.500000, 48.500000, -380.500000]
+[29Mar2025 01:41:25.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[29Mar2025 01:41:25.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[29Mar2025 01:42:25.353] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [9d007aea-c3f3-474c-af79-065d9f5a329b]
+[29Mar2025 01:42:27.270] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [9d007aea-c3f3-474c-af79-065d9f5a329b]

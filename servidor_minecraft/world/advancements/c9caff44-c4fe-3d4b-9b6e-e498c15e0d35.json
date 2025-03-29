@@ -8503,6 +8503,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-03-29 01:34:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
     "criteria": {
       "has_dragonscale_blue": "2025-03-28 23:21:41 +0000"
@@ -8572,6 +8578,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-03-29 00:48:31 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2025-03-29 01:37:04 +0000"
     },
     "done": true
   },
