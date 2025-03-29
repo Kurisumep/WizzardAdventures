@@ -98,3 +98,7 @@
 [29Mar2025 02:01:37.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMONIO1698: Teleported DMONIO1698 to 287.500000, 111.500000, -2081.500000]
 [29Mar2025 02:04:59.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 has reached the goal [New Age Librarian]
 [29Mar2025 02:07:00.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 280.500000, 109.500000, -2085.500000]
+[29Mar2025 02:15:16.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CloggedTerror10 moved too quickly! 9.521057635756222,3.2712241076924897,-0.581480645202646
+[29Mar2025 02:16:24.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 525.500000, 48.500000, -380.500000]
+[29Mar2025 02:18:23.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to DMONIO1698]
+[29Mar2025 02:21:18.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 has made the advancement [Quite the Walking Stick]

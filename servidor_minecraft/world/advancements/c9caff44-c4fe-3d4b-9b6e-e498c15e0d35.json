@@ -8491,9 +8491,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-03-29 02:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-03-28 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-29 02:20:45 +0000"
     },
     "done": true
   },
@@ -8506,6 +8518,12 @@
   "dungeons_arise:find_shiraz_palace": {
     "criteria": {
       "location0": "2025-03-28 22:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-03-29 02:20:45 +0000"
     },
     "done": true
   },
@@ -8560,6 +8578,12 @@
   "iceandfire:iceandfire/myrmex_resin": {
     "criteria": {
       "resin": "2025-03-28 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-03-29 02:20:45 +0000"
     },
     "done": true
   },
@@ -8683,6 +8707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-03-29 02:20:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-03-28 22:33:02 +0000"
@@ -8713,6 +8743,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-03-29 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-03-29 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-29 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-29 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-03-29 02:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-03-28 22:57:23 +0000"
@@ -8737,6 +8797,18 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2025-03-29 02:21:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-03-29 02:20:45 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-03-28 23:15:04 +0000"
@@ -8746,6 +8818,12 @@
   "iceandfire:recipes/combat/myrmex_desert_helmet": {
     "criteria": {
       "has_item": "2025-03-28 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-29 02:16:36 +0000"
     },
     "done": true
   },
@@ -8788,6 +8866,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-03-28 23:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-29 02:20:45 +0000"
     },
     "done": true
   },
@@ -8869,6 +8953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-29 02:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_brown_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-29 00:44:41 +0000"
@@ -8884,6 +8974,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_magenta_dye": "2025-03-29 00:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-29 02:20:45 +0000"
     },
     "done": true
   },
@@ -8920,6 +9016,12 @@
   "iceandfire:recipes/combat/armor_black_helmet": {
     "criteria": {
       "has_item": "2025-03-28 23:17:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_crimson_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-29 02:20:45 +0000"
     },
     "done": true
   },
