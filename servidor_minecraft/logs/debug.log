@@ -7324,3 +7324,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [29Mar2025 00:46:25.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
 [29Mar2025 00:51:25.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
 [29Mar2025 00:51:25.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[29Mar2025 00:56:25.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[29Mar2025 00:56:25.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[29Mar2025 00:59:24.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMONIO1698 was killed by CloggedTerror10 using magic
+[29Mar2025 01:01:25.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[29Mar2025 01:01:25.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
