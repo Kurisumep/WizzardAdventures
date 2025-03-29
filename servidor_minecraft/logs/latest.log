@@ -102,3 +102,9 @@
 [29Mar2025 02:16:24.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 525.500000, 48.500000, -380.500000]
 [29Mar2025 02:18:23.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to DMONIO1698]
 [29Mar2025 02:21:18.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 has made the advancement [Quite the Walking Stick]
+[29Mar2025 02:25:53.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMONIO1698 was killed by CloggedTerror10 using magic
+[29Mar2025 02:26:38.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMONIO1698: Teleported DMONIO1698 to CloggedTerror10]
+[29Mar2025 02:29:11.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CloggedTerror10> hola
+[29Mar2025 02:29:12.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CloggedTerror10> uwu
+[29Mar2025 02:32:31.301] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c55af29[id=<null>,name=FBFernet,properties={},legacy=false] (/100.77.123.85:51781) lost connection: Disconnected
+[29Mar2025 02:33:11.398] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46637d8f[id=<null>,name=FBFernet,properties={},legacy=false] (/100.77.123.85:51822) lost connection: Disconnected
