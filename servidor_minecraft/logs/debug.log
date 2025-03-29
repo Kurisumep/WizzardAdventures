@@ -7304,3 +7304,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [29Mar2025 00:16:25.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
 [29Mar2025 00:21:25.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
 [29Mar2025 00:21:25.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[29Mar2025 00:24:38.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 has made the advancement [An Ear-Shattering Roar]
+[29Mar2025 00:25:12.154] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [8d98cfb3-e352-3ce5-b82d-69b3d9bca8fe]
+[29Mar2025 00:26:11.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CloggedTerror10 withered away
+[29Mar2025 00:26:11.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMONIO1698 was struck by lightning
+[29Mar2025 00:26:17.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CloggedTerror10: Teleported CloggedTerror10 to 275.500000, 109.500000, -2079.500000]
+[29Mar2025 00:26:25.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[29Mar2025 00:26:25.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
+[29Mar2025 00:31:12.545] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [8d98cfb3-e352-3ce5-b82d-69b3d9bca8fe]
+[29Mar2025 00:31:25.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save WizardAdventures
+[29Mar2025 00:31:25.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete WizardAdventures
